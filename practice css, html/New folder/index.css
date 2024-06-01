@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#div1 {
+    
+    height: 650px;
+    width: 300px;
+    background-color: aqua;
+    border: red;
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+div {
+    
+    height: 40px;
+    width: 250px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+}
